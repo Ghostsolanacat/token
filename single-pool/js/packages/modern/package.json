@@ -27,7 +27,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@solana/web3.js": "=2.0.0-experimental.21e994f"
+    "@solana/web3.js": "=2.0.0-preview.1.20240312212228.b645b4f9650583ffb14fb0c571f2ec8b33926a24"
   },
   "ava": {
     "extensions": {
